@@ -2,7 +2,7 @@
 
 Personal study repo for the Dutch Inburgeringsexamen (A2). Inspired by
 [thecr7guy2/learnindutch](https://github.com/thecr7guy2/learnindutch), organized around the
-official exam task types instead of a general framework.
+official exam task types.
 
 ## Countdown
 
