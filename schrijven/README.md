@@ -6,14 +6,15 @@ The A2 schrijven exam has three task types. Each needs a different opening/closi
 see `zinnen.md` for templates per type.
 
 1. **Formulieren invullen** — fill in a form (personal details, reden van aanvraag). No
-   greeting/closing, just correct fields. Example: `voorbeelden/formulier-voorbeeld.md`.
-2. **Een bericht schrijven** — a short message/email/note to one person (afspraak
-   afzeggen/verzetten, klacht, aanvraag, uitnodiging, informatie doorgeven). Formal or
-   informal aanhef depending on who you're writing to. Examples:
-   `voorbeelden/afspraak-verzetten.md`, `klacht.md`, `aanvraag.md`, `uitnodiging.md`,
-   `informatie-doorgeven.md`.
+   greeting/closing, just correct fields. Examples: `voorbeelden/formulier-voorbeeld.md`,
+   `verhuisformulier.md`.
+2. **Een bericht schrijven** — a short message/email/note to one person. Formal or informal
+   aanhef depending on who you're writing to. Examples: `voorbeelden/afspraak-verzetten.md`,
+   `klacht.md`, `aanvraag.md`, `uitnodiging.md`, `informatie-doorgeven.md`, `bedanken.md`,
+   `excuses-te-laat.md`, `bevestigen-afspraak.md`, `verhuisbericht.md`.
 3. **Een tekst voor iedereen** — a short public notice (noticeboard, flyer, group message),
-   no single addressee. Example: `voorbeelden/tekst-voor-iedereen.md`.
+   no single addressee. Examples: `voorbeelden/tekst-voor-iedereen.md`, `te-koop.md`,
+   `buurtfeest.md`.
 
 It is **not** essay writing — it's testing whether you can produce correct, functional short
 texts under time pressure.

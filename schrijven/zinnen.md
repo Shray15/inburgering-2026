@@ -84,6 +84,41 @@ See `voorbeelden/formulier-voorbeeld.md` for a filled example.
 - "Ik wil u laten weten dat ..."
 - "Ik hoop dat u hier rekening mee kunt houden."
 
+**Bedanken**
+- "Ik wil u/je hartelijk bedanken voor ..."
+- "Wat fijn dat je ... Dat waardeer ik echt."
+- "Bedankt voor uw hulp/het cadeau/de uitnodiging."
+
+**Feliciteren**
+- "Van harte gefeliciteerd met ...!"
+- "Wat leuk om te horen dat ..."
+- "Ik wens je veel geluk/succes met ..."
+
+**Excuses aanbieden / te laat melden**
+- "Excuses voor het late bericht."
+- "Helaas kom ik vandaag later, ik ben er rond [tijd]."
+- "Het spijt me dat ik ... niet op tijd heb ..."
+
+**Iets lenen / hulp vragen**
+- "Zou ik [iets] van je mogen lenen?"
+- "Zou je me kunnen helpen met ...?"
+- "Ik zou het fijn vinden als je ..."
+
+**Bevestigen (afspraak, reservering)**
+- "Ik bevestig hierbij onze afspraak op [datum] om [tijd]."
+- "Graag reserveer ik een tafel voor [aantal] personen op [datum]."
+- "Kunt u bevestigen dat u mijn bericht heeft ontvangen?"
+
+**Verhuisbericht (adreswijziging doorgeven)**
+- "Ik wil u laten weten dat ik per [datum] verhuis naar [nieuw adres]."
+- "Mijn nieuwe adres is: ..."
+- "Kunt u mijn gegevens aanpassen in uw systeem?"
+
+**Afwezigheid melden (werk/school)**
+- "Ik voel me niet goed en kan vandaag niet komen werken."
+- "Ik wil me ziek melden voor vandaag."
+- "Ik verwacht morgen weer aanwezig te zijn."
+
 ### Afsluiting (closing)
 
 | Formeel | Informeel |
@@ -131,10 +166,28 @@ noticeboard, WhatsApp group, or flyer.
 
 ### Kernzinnen
 
+**Gevonden voorwerp**
 - "Ik heb een [voorwerp] gevonden bij [plaats]."
-- "Ik ben op zoek naar ..."
-- "Op [datum] is er ... Houd hier rekening mee."
-- "Vanaf [datum] zal er ... plaatsvinden."
+
+**Te koop aanbieden**
+- "Ik verkoop een [voorwerp] in goede staat."
+- "De prijs is [bedrag], onderhandelbaar."
+
+**Uitnodiging voor een groep (buurtfeest, activiteit)**
+- "Op [datum] organiseren we een [activiteit] in/bij [plaats]."
+- "Iedereen is welkom, neem gerust iets lekkers mee!"
+
+**Hulp vragen aan een groep**
+- "Ik ben op zoek naar iemand die me kan helpen met ..."
+- "Wie kan mij op [datum] helpen met [taak]?"
+
+**Vermist huisdier**
+- "Sinds [datum] wordt mijn [dier, kleur/kenmerken] vermist."
+- "Hij/zij reageert op de naam [naam]."
+
+**Waarschuwing / mededeling**
+- "Let op: vanaf [datum] is/zijn [wat] tijdelijk niet beschikbaar."
+- "Houd rekening met [overlast/werkzaamheden] tussen [tijd] en [tijd]."
 
 ### Call to action / contact
 
@@ -148,4 +201,33 @@ noticeboard, WhatsApp group, or flyer.
 - "Met dank, [naam]"
 - "Alvast bedankt, [naam]"
 
-See `voorbeelden/tekst-voor-iedereen.md` for a filled example.
+See `voorbeelden/tekst-voor-iedereen.md`, `voorbeelden/te-koop.md`, and
+`voorbeelden/buurtfeest.md` for filled examples.
+
+---
+
+## 4. Handige losse zinnen (general — useful in any of the three types)
+
+**Beleefd vragen (polite requests)**
+- "Zou u zo vriendelijk willen zijn om ...?"
+- "Zou het mogelijk zijn om ...?"
+- "Mag ik u vragen om ...?"
+
+**Hoop/verwachting uitspreken**
+- "Ik hoop dat dit geen probleem is."
+- "Ik hoop snel iets van u te horen."
+- "Ik reken op uw begrip."
+
+**Bevestigen dat je iets ontvangen/gelezen hebt**
+- "Ik heb uw bericht ontvangen, bedankt."
+- "Ik heb begrepen dat ..."
+
+**Om een reactie vragen**
+- "Ik hoor graag van u."
+- "Laat me weten of dit lukt."
+- "Graag hoor ik zo snel mogelijk van u/je."
+
+**Datum en tijd correct schrijven**
+- Dutch date format: DD-MM-YYYY or "19 augustus 2026" (not "August 19").
+- Time: "om 10:00 uur" / "tussen 9:00 en 11:00 uur".
+- "aanstaande [dag]" = next [day]; "afgelopen [dag]" = last [day].
