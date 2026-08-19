@@ -2,19 +2,21 @@
 
 ## Format
 
-The A2 schrijven exam is a set of short functional writing tasks: you're given a situation
-(often a form to fill in or a short message to write) and respond in a few sentences. It is
-**not** essay writing — it's testing whether you can produce correct, functional short texts
-under time pressure.
+The A2 schrijven exam has three task types. Each needs a different opening/closing style —
+see `zinnen.md` for templates per type.
 
-Typical task types (see `voorbeelden/`):
+1. **Formulieren invullen** — fill in a form (personal details, reden van aanvraag). No
+   greeting/closing, just correct fields. Example: `voorbeelden/formulier-voorbeeld.md`.
+2. **Een bericht schrijven** — a short message/email/note to one person (afspraak
+   afzeggen/verzetten, klacht, aanvraag, uitnodiging, informatie doorgeven). Formal or
+   informal aanhef depending on who you're writing to. Examples:
+   `voorbeelden/afspraak-verzetten.md`, `klacht.md`, `aanvraag.md`, `uitnodiging.md`,
+   `informatie-doorgeven.md`.
+3. **Een tekst voor iedereen** — a short public notice (noticeboard, flyer, group message),
+   no single addressee. Example: `voorbeelden/tekst-voor-iedereen.md`.
 
-- een afspraak afzeggen of verzetten
-- een klacht indienen
-- iets aanvragen / om informatie vragen
-- iemand uitnodigen
-- informatie doorgeven (bv. aan school, huisarts, werkgever)
-- een formulier invullen
+It is **not** essay writing — it's testing whether you can produce correct, functional short
+texts under time pressure.
 
 ## Scoring tips
 
