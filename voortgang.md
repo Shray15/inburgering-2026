@@ -1,8 +1,8 @@
-# Voortgang
+# Progress log (voortgang)
 
 Dated study log. Keep entries short — this is a log, not an essay.
 
 ## 2026-08-19
 
-- Repo opgezet. Schrijven-examen over 8 dagen (27 augustus).
-- Focus deze week: schrijven — dagelijks 1 taaktype oefenen uit `schrijven/voorbeelden/`.
+- Repo set up. Schrijven exam in 8 days (27 August).
+- Focus this week: schrijven — practice one task type daily from `schrijven/voorbeelden/`.

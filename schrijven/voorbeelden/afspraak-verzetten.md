@@ -1,9 +1,9 @@
-# Voorbeeld: afspraak verzetten
+# Example: afspraak verzetten
 
-**Situatie**: Je hebt op vrijdag 21 augustus om 10:00 een afspraak bij de tandarts. Je kunt
+**Situation**: Je hebt op vrijdag 21 augustus om 10:00 een afspraak bij de tandarts. Je kunt
 niet komen. Schrijf een bericht om de afspraak te verzetten.
 
-**Modeltekst**
+**Model text**
 
 > Geachte heer/mevrouw,
 >
@@ -15,5 +15,5 @@ niet komen. Schrijf een bericht om de afspraak te verzetten.
 > Met vriendelijke groet,
 > [naam]
 
-**Waarom dit werkt**: formeel register, noemt datum/tijd, geeft duidelijk aan wat je wilt
+**Why this works**: formeel register, noemt datum/tijd, geeft duidelijk aan wat je wilt
 (verzetten, niet afzeggen), vraagt actief om een reactie.

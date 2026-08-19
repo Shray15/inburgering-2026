@@ -1,6 +1,6 @@
 # Gezondheid
 
-_(vul aan vanuit je cursusboek)_
+_(fill in from your course book)_
 
 - Hoe werkt de zorgverzekering?
 - Wanneer ga je naar de huisarts, wanneer naar de spoedeisende hulp?

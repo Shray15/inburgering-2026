@@ -33,5 +33,5 @@ Typical task types (see `voorbeelden/`):
 1. Pick a task type from `voorbeelden/`.
 2. Write a response cold, timed (~5 min), save it in `oefeningen/YYYY-MM-DD.md`.
 3. Compare against the model text.
-4. Any recurring mistake → open a GitHub Issue with the `fout` template, label
+4. Any recurring mistake → open a GitHub Issue with the `mistake` template, label
    `skill:schrijven`.

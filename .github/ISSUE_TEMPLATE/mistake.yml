@@ -1,0 +1,37 @@
+name: Mistake
+description: Log a recurring mistake to track and eliminate it
+title: "[mistake]: "
+labels: ["mistake"]
+body:
+  - type: dropdown
+    id: section
+    attributes:
+      label: Section
+      description: Which exam component (Dutch names, matching the repo's folder names)
+      options:
+        - schrijven
+        - spreken
+        - knm
+        - lezen
+        - luisteren
+    validations:
+      required: true
+  - type: textarea
+    id: mistake
+    attributes:
+      label: What went wrong?
+      description: What did you write/say, and what's incorrect about it?
+    validations:
+      required: true
+  - type: textarea
+    id: correct
+    attributes:
+      label: Correct form
+      description: What should it have been?
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Why (underlying rule/pattern)
+      description: The rule behind it, so you recognize it next time.

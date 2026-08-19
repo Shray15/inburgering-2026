@@ -1,8 +1,8 @@
-# Voorbeeld: informatie doorgeven
+# Example: informatie doorgeven
 
-**Situatie**: Je kind is ziek en kan niet naar school. Geef dit door aan de leraar.
+**Situation**: Je kind is ziek en kan niet naar school. Geef dit door aan de leraar.
 
-**Modeltekst**
+**Model text**
 
 > Geachte meneer/mevrouw,
 >
@@ -12,5 +12,5 @@
 > Met vriendelijke groet,
 > [naam]
 
-**Waarom dit werkt**: geeft de kernboodschap direct (afwezig + reden), formeel maar kort,
+**Why this works**: geeft de kernboodschap direct (afwezig + reden), formeel maar kort,
 past bij communicatie met school.

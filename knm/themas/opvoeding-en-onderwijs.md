@@ -1,6 +1,6 @@
 # Opvoeding en onderwijs
 
-_(vul aan vanuit je cursusboek)_
+_(fill in from your course book)_
 
 - Vanaf welke leeftijd is een kind leerplichtig?
 - Welke soorten scholen zijn er (basisschool, voortgezet onderwijs)?

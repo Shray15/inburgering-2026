@@ -7,13 +7,13 @@ official exam task types instead of a general framework.
 
 ## Countdown
 
-| Onderdeel | Datum | Status |
+| Component | Date | Status |
 |---|---|---|
-| Lezen | — | ✅ Geslaagd |
-| Luisteren | — | ✅ Geslaagd |
-| Schrijven | **27 augustus 2026** | Geboekt |
-| Spreken | TBD | Nog boeken |
-| KNM | TBD | Nog boeken |
+| Lezen | — | ✅ Passed |
+| Luisteren | — | ✅ Passed |
+| Schrijven | **27 August 2026** | Booked |
+| Spreken | TBD | Not booked yet |
+| KNM | TBD | Not booked yet |
 
 > Update this table as soon as spreken and KNM are booked — `git log` on this file doubles as a
 > record of when things changed.
@@ -31,7 +31,7 @@ voortgang.md     dated study log / journal
 ## How mistakes are tracked
 
 Instead of one flat `logboek.md`, mistakes are logged as **GitHub Issues** with the
-`fout` template (`.github/ISSUE_TEMPLATE/fout.yml`) and labelled by skill
+`mistake` template (`.github/ISSUE_TEMPLATE/mistake.yml`) and labelled by skill
 (`skill:schrijven`, `skill:spreken`, `skill:knm`). That makes them:
 
 - filterable by skill/theme via labels
@@ -43,7 +43,7 @@ signal a mistake came back — worth flagging in `voortgang.md`.
 
 ## Vocab bank
 
-`woordenbank.csv` is a flat table (`woord,vertaling,thema,onderdeel,voorbeeldzin`). Keep
+`woordenbank.csv` is a flat table (`word,translation,theme,section,example_sentence`). Keep
 adding rows as you go. Because it's plain CSV, it imports directly into Anki
 (File → Import) if you want spaced-repetition drilling without maintaining a custom flashcard
 app.

@@ -1,9 +1,9 @@
-# Voorbeeld: iemand uitnodigen
+# Example: iemand uitnodigen
 
-**Situatie**: Je verjaardag is over twee weken. Nodig een vriend(in) uit voor een etentje bij
+**Situation**: Je verjaardag is over twee weken. Nodig een vriend(in) uit voor een etentje bij
 je thuis.
 
-**Modeltekst**
+**Model text**
 
 > Hoi [naam],
 >
@@ -15,5 +15,5 @@ je thuis.
 > Groetjes,
 > [naam]
 
-**Waarom dit werkt**: informeel register (past bij een vriend), noemt datum en tijd, vraagt
+**Why this works**: informeel register (past bij een vriend), noemt datum en tijd, vraagt
 om een bevestiging.

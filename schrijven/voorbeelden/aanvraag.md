@@ -1,9 +1,9 @@
-# Voorbeeld: iets aanvragen / informatie vragen
+# Example: iets aanvragen / informatie vragen
 
-**Situatie**: Je wilt een Nederlandse cursus volgen bij een taalschool. Vraag om informatie
+**Situation**: Je wilt een Nederlandse cursus volgen bij een taalschool. Vraag om informatie
 over de cursustijden en de kosten.
 
-**Modeltekst**
+**Model text**
 
 > Geachte heer/mevrouw,
 >
@@ -17,5 +17,5 @@ over de cursustijden en de kosten.
 > Met vriendelijke groet,
 > [naam]
 
-**Waarom dit werkt**: specifieke vragen (tijden, kosten, plaats), beleefd en formeel,
+**Why this works**: specifieke vragen (tijden, kosten, plaats), beleefd en formeel,
 duidelijke afsluiting met dank.

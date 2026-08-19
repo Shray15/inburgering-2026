@@ -1,6 +1,6 @@
 # Werk en inkomen
 
-_(vul aan vanuit je cursusboek)_
+_(fill in from your course book)_
 
 - Hoe vind je werk in Nederland? (UWV, uitzendbureau, ...)
 - Wat is een uitkering en wanneer krijg je die?

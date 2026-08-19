@@ -20,5 +20,5 @@ Not booked yet. Structure ready for when it's scheduled.
 
 1. Study one theme from the course book.
 2. Fill in the corresponding `themas/*.md` with key facts, in your own words.
-3. Add unfamiliar terms to `woordenbank.csv` (thema = theme name, onderdeel = knm).
+3. Add unfamiliar terms to `woordenbank.csv` (theme = theme name, section = knm).
 4. Get a fact wrong on a practice exam → GitHub Issue, label `skill:knm`.

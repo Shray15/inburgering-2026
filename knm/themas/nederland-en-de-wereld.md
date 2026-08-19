@@ -1,6 +1,6 @@
 # Nederland en de wereld
 
-_(vul aan vanuit je cursusboek)_
+_(fill in from your course book)_
 
 - Lidmaatschap van internationale organisaties (EU, NAVO, VN)
 - Handel en economie: waar is Nederland bekend om?

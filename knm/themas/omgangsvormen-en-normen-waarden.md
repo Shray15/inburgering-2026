@@ -1,6 +1,6 @@
 # Omgangsvormen en normen en waarden
 
-_(vul aan vanuit je cursusboek)_
+_(fill in from your course book)_
 
 - Wat zijn gangbare omgangsvormen (begroeten, op tijd komen, ...)?
 - Hoe wordt in Nederland met gelijkheid (m/v, LHBTI) omgegaan volgens de wet/cultuur?

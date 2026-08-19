@@ -1,9 +1,9 @@
-# Voorbeeld: een klacht indienen
+# Example: een klacht indienen
 
-**Situatie**: Je hebt een pakket besteld, maar na twee weken is het nog niet aangekomen.
+**Situation**: Je hebt een pakket besteld, maar na twee weken is het nog niet aangekomen.
 Schrijf een klacht naar de winkel.
 
-**Modeltekst**
+**Model text**
 
 > Geachte heer/mevrouw,
 >
@@ -15,5 +15,5 @@ Schrijf een klacht naar de winkel.
 > Met vriendelijke groet,
 > [naam]
 
-**Waarom dit werkt**: noemt wat er besteld is en wanneer, benoemt het probleem concreet,
+**Why this works**: noemt wat er besteld is en wanneer, benoemt het probleem concreet,
 vraagt om een concrete actie/reactie.
