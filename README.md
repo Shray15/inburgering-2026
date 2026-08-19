@@ -9,6 +9,8 @@ official exam task types instead of a general framework.
 
 | Onderdeel | Datum | Status |
 |---|---|---|
+| Lezen | — | ✅ Geslaagd |
+| Luisteren | — | ✅ Geslaagd |
 | Schrijven | **27 augustus 2026** | Geboekt |
 | Spreken | TBD | Nog boeken |
 | KNM | TBD | Nog boeken |
